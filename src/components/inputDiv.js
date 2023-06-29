@@ -133,7 +133,7 @@ function inputDiv(props) {
           placeholder={click2 ? "Select Package" : "Enter Destination"}
           sx={{
             height: "54px",
-            width: "370px",
+            width: "368px",
             margin: "0 0 0 0px",
             alignSelf: "center",
             border:"none",
